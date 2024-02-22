@@ -1835,7 +1835,7 @@ input, select, textarea {
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #49bf9d;
+			border-color: #ab7ede;
 		}
 
 	select {
@@ -1940,7 +1940,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #49bf9d;
+			border-color: #ab7ede;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2458,8 +2458,8 @@ input, select, textarea {
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			border-color: #ab7ede;
+			color: #ab7ede !important;
 		}
 
 		input[type="submit"]:active,
@@ -2467,8 +2467,8 @@ input, select, textarea {
 		input[type="button"]:active,
 		.button:active {
 			background-color: rgba(73, 191, 157, 0.1);
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			border-color: #ab7ede;
+			color: #ab7ede !important;
 		}
 
 		input[type="submit"].icon,
@@ -2511,8 +2511,8 @@ input, select, textarea {
 		input[type="reset"].primary,
 		input[type="button"].primary,
 		.button.primary {
-			background-color: #49bf9d;
-			border-color: #49bf9d;
+			background-color: #ab7ede;
+			border-color: #ab7ede;
 			color: #ffffff !important;
 		}
 
@@ -2520,16 +2520,16 @@ input, select, textarea {
 			input[type="reset"].primary:hover,
 			input[type="button"].primary:hover,
 			.button.primary:hover {
-				background-color: #5cc6a7;
-				border-color: #5cc6a7;
+				background-color: #d4bbf0;
+				border-color: #d4bbf0;
 			}
 
 			input[type="submit"].primary:active,
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #3eb08f;
-				border-color: #3eb08f;
+				background-color: #8b56c7;
+				border-color: #8b56c7;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
