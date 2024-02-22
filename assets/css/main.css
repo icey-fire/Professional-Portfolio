@@ -111,7 +111,7 @@ input, select, textarea {
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #ab7ede !important;
+			color: #ab7ede !important; <!--I love purple lol-->
 			text-decoration: none;
 		}
 
