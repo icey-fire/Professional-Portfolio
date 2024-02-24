@@ -105,7 +105,7 @@ input, select, textarea {
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #ab7ede;
+		color: #ffffff;
 		text-decoration: none;
 	}
 
@@ -2528,8 +2528,8 @@ input, select, textarea {
 			input[type="reset"].primary:active,
 			input[type="button"].primary:active,
 			.button.primary:active {
-				background-color: #8b56c7;
-				border-color: #8b56c7;
+				background-color: #ffffff;
+				border-color: #ffffff;
 			}
 
 		input[type="submit"].disabled, input[type="submit"]:disabled,
