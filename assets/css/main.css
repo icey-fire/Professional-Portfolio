@@ -2628,10 +2628,14 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			color: rgba(255, 255, 255, 0.7);
+			color: rgba(255, 255, 255, 0.6);
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
+		}
+
+		#header p {
+			color: rgba(255, 255, 255, 0.6);
 		}
 
 		#header .image.avatar {
