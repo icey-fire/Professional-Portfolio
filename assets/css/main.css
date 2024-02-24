@@ -2225,7 +2225,8 @@ input, select, textarea {
 			}
 
 			ul.labeled-icons li h3 {
-				color: #d8d8d8;
+				color: #ffffff;
+				opacity: 0.8;
 				left: 0;
 				position: absolute;
 				text-align: center;
@@ -2512,8 +2513,9 @@ input, select, textarea {
 		input[type="button"].primary,
 		.button.primary {
 			background-color: #ffffff;
-			border-color: #f4eaff;
-			color: #f4eaff !important;
+			border-color: #ffffff;
+			color: #ffffff !important;
+			opacity: 0.9;
 		}
 
 			input[type="submit"].primary:hover,
@@ -2626,7 +2628,7 @@ input, select, textarea {
 		}
 
 		#header h1 {
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 0.7);
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
